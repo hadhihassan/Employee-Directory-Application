@@ -1,19 +1,17 @@
 # Employee Management System
 
-A full-stack Employee Management System built with **Next.js**, **React**, **Apollo GraphQL**, **MongoDB**, and **TypeScript**, styled with Tailwind CSS.  
+A full-stack Employee Management System built with **Next.js**, **React**, **Apollo GraphQL**, **MongoDB**, and **TypeScript**, styled with Tailwind CSS.
 
 ---
 
 ## Project Structure
 
 ```
-
 Task/
 ├── frontend/       # Next.js frontend application
 ├── backend/        # Node.js + GraphQL backend
 └── README.md       # Project documentation
-
-````
+```
 
 ---
 
@@ -32,7 +30,7 @@ Task/
 
 ```bash
 cd backend
-````
+```
 
 2. Install dependencies:
 
@@ -125,8 +123,8 @@ npm run lint     # Run ESLint
 
 ## Technologies Used
 
-* **Frontend**: Next.js, React, Apollo Client, Tailwind CSS, TypeScript, Radix UI
-* **Backend**: Node.js, Apollo Server, GraphQL, MongoDB, Zod
-* **Tools**: ESLint, Prettier, tsx, ts-node-dev
+- **Frontend**: Next.js, React, Apollo Client, Tailwind CSS, TypeScript, Radix UI
+- **Backend**: Node.js, Apollo Server, GraphQL, MongoDB, Zod
+- **Tools**: ESLint, Prettier, tsx, ts-node-dev
 
 ---
