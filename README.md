@@ -51,7 +51,7 @@ DB_NAME=employee-directory
 > Replace `<your-mongodb-connection-string>` with your actual MongoDB connection URI. Example for MongoDB Atlas:
 >
 > ```
-> mongodb+srv://username:password@cluster0.mongodb.net
+> mongodb+srv://username : password@ cluster 0.mongodb.net
 > ```
 
 4. Seed initial data (optional):
